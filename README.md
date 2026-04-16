@@ -3,6 +3,9 @@
 ## Student
 Odile Ornelle Tientcheu
 
+## Overview
+This project contains test scripts and requirements documentation for testing core features of GrabDocs.
+
 ## Features Tested
 - File Upload
 - Messages
@@ -11,10 +14,13 @@ Odile Ornelle Tientcheu
 ## Testing Type
 Manual Testing
 
-## Description
-This project contains test scripts and requirements documentation for testing core features of GrabDocs.
+## Tools Used
+- GitHub
+- Jira / Azure DevOps
 
 ## Files Included
-- Test Script
-- Requirements Document# GrabDocs-Testing
+- Test Script Document
+- Requirements Document
+
+## Repository Name
 GrabDocs-Testing
