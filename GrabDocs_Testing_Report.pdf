@@ -1,0 +1,65 @@
+Student: Odile Ornelle Tientcheu
+Testing Type: Manual Testing
+
+1. Introduction
+This document presents the testing performed on GrabDocs. The goal of this testing was to verify that key features function correctly and identify any limitations affecting functionality.
+
+2. Features Tested
+The following features were selected for testing:
+File Upload
+
+
+Messages
+
+
+Workspace
+
+
+
+3. Testing Methodology
+Manual testing was used to evaluate the system. Each feature was tested by performing real user actions and comparing expected results with actual outcomes.
+
+4. Test Cases and Results
+4.1 File Upload
+Objective: Verify file upload functionality
+
+
+Result: Feature required a paid subscription and could not be fully tested
+
+
+Status: FAIL
+
+
+
+4.2 Messages
+Objective: Verify messaging functionality
+
+
+Result: Messaging feature was restricted and could not be accessed without subscription
+
+
+Status: FAIL
+
+
+
+4.3 Workspace
+Objective: Verify workspace management
+
+
+Result: Workspace feature was accessible and basic functionality worked as expected
+
+
+Status: PASS
+
+
+
+5. Limitations
+During testing, some features required a paid subscription to access full functionality. This limited the ability to fully test File Upload and Messages.
+
+6. Conclusion
+The Workspace feature functioned as expected. However, File Upload and Messages could not be fully tested due to subscription restrictions. It is recommended that testing be conducted with full system access to validate all features.
+
+7. GitHub Repository
+Project files, including test scripts and requirements, are available on
+GitHub
+
